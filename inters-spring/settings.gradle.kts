@@ -1,0 +1,1 @@
+rootProject.name = "inters-spring"
